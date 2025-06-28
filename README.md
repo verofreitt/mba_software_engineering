@@ -1,4 +1,4 @@
-# mba_software_engineering
+# MBA em Engenharia de Software – Anotações e Aplicações Práticas Pessoais
 
 Este repositório é de uso pessoal e destina-se exclusivamente ao acompanhamento dos meus estudos durante o MBA em Engenharia de Software.
 Todo o conteúdo aqui registrado pertence aos professores do curso e está protegido por direitos autorais. Não é permitida a reprodução, distribuição ou uso para fins comerciais.
